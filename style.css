@@ -49,21 +49,21 @@ body {
             &.bold {
                 font-weight: 700;
                 font-size: 22px;
+            }
 
-                .regular {
-                    font-weight: 400;
-                    font-size: 14px;
-                }
+            &.regular {
+                font-weight: 400;
+                font-size: 14px;
             }
         }
     }
+}
 
-    .attribution {
-        font-size: 11px;
-        text-align: center;
-    }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
 
-    .attribution a {
-        color: hsl(228, 45%, 44%);
-    }
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
