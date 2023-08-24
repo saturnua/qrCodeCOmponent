@@ -73,7 +73,6 @@ I will continue studying frontend.....
 
 ## Author
 
-- Website - [Add your name here](https://www.my-site.com)
 - Frontend Mentor - [@inecon](https://www.frontendmentor.io/profile/inecon)
 - Twitter - [@saturnua](https://www.twitter.com/saturnua)
 
